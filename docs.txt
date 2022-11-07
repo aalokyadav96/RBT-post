@@ -1,0 +1,16 @@
+files ::
+		main.py
+		subtitles.srt
+		.flaskenv
+		list.txt
+		templates/index.html
+		templates/done.html
+
+folders ::
+		static
+		templates
+		thumb
+		videos
+	
+run ::
+		flask run

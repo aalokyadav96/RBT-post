@@ -1,0 +1,192 @@
+1
+00:00:00,000 --> 00:00:01,000
+<i><b>Departure Time</b> : </i>24 hours buses are available from Rewari to Narnaul  
+<i><b>Route</b>       : </i> 
+<i><b>Via</b>            : </i>Kund, Ateli 
+<i><b>Bus Type</b> : </i>Haryana Roadways , RSRTC Express
+No : 1
+
+2
+00:00:01,000 --> 00:00:02,000
+<i><b>Departure Time</b> : </i>00.12 hrs 
+<i><b>Route</b>       : </i>Delhi to Jhunjhunu 
+<i><b>Via</b>            : </i>Kund, Ateli 
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 2
+
+3
+00:00:02,000 --> 00:00:03,000
+<i><b>Departure Time</b> : </i>00.30 hrs 
+<i><b>Route</b>       : </i>Delhi to Churu 
+<i><b>Via</b>            : </i>Kund, Ateli  
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 3
+
+4
+00:00:03,000 --> 00:00:04,000
+<i><b>Departure Time</b> : </i>02.45 hrs 
+<i><b>Route</b>       : </i>Delhi to Jhunjhunu 
+<i><b>Via</b>            : </i>Kund, Ateli  
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 4
+
+5
+00:00:04,000 --> 00:00:05,000
+<i><b>Departure Time</b> : </i>05.15 hrs 
+<i><b>Route</b>       : </i>Delhi to Jhunjhunu 
+<i><b>Via</b>            : </i>Kund, Ateli  
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 5
+
+6
+00:00:05,000 --> 00:00:06,000
+<i><b>Departure Time</b> : </i>06.40 hrs 
+<i><b>Route</b>       : </i>Delhi to Jhunjhunu 
+<i><b>Via</b>            : </i>Kund, Ateli  
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 6
+
+7
+00:00:06,000 --> 00:00:07,000
+<i><b>Departure Time</b> : </i>07.45 hrs 
+<i><b>Route</b>       : </i>Delhi to Jhunjhunu 
+<i><b>Via</b>            : </i>Kund, Ateli  
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 7
+
+8
+00:00:07,000 --> 00:00:08,000
+<i><b>Departure Time</b> : </i>07.50 hrs 
+<i><b>Route</b>       : </i>Delhi to Jhunjhunu 
+<i><b>Via</b>            : </i>Kund, Ateli  
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 8
+
+9
+00:00:08,000 --> 00:00:09,000
+<i><b>Departure Time</b> : </i>09.20 hrs 
+<i><b>Route</b>       : </i>Delhi to Churu
+<i><b>Via</b>            : </i>Kund, Ateli  
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 9
+
+10
+00:00:09,000 --> 00:00:10,000
+<i><b>Departure Time</b> : </i>09.45 hrs 
+<i><b>Route</b>       : </i>Delhi to Deedwana
+<i><b>Via</b>            : </i>Kund, Ateli  
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 10
+
+11
+00:00:10,000 --> 00:00:11,000
+<i><b>Departure Time</b> : </i>13.25 hrs 
+<i><b>Route</b>       : </i>Delhi to Jhunjhunu 
+<i><b>Via</b>            : </i>Kund, Ateli  
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 11
+
+12
+00:00:11,000 --> 00:00:12,000
+<i><b>Departure Time</b> : </i>18.15 hrs 
+<i><b>Route</b>       : </i>Delhi to Jhunjhunu 
+<i><b>Via</b>            : </i>Kund, Ateli  
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 12
+
+13
+00:00:12,000 --> 00:00:13,000
+<i><b>Departure Time</b> : </i>18.45 hrs 
+<i><b>Route</b>       : </i>Delhi to Jhunjhunu 
+<i><b>Via</b>            : </i>Kund, Ateli  
+<i><b>Bus Type</b> : </i>RSRTC Semi Deluxe 
+No : 13
+
+14
+00:00:13,000 --> 00:00:14,000
+<i><b>Departure Time</b> : </i>19.15 hrs 
+<i><b>Route</b>       : </i>Delhi to Jhunjhunu 
+<i><b>Via</b>            : </i>Kund, Ateli  
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 14
+
+15
+00:00:14,000 --> 00:00:15,000
+<i><b>Departure Time</b> : </i>20.00 hrs 
+<i><b>Route</b>       : </i>Delhi to Jhunjhunu 
+<i><b>Via</b>            : </i>Kund, Ateli  
+<i><b>Bus Type</b> : </i>RSRTC Semi Deluxe 
+No : 15
+
+16
+00:00:15,000 --> 00:00:16,000
+<i><b>Departure Time</b> : </i>21.05 hrs 
+<i><b>Route</b>       : </i>Delhi to Jhunjhunu 
+<i><b>Via</b>            : </i>Kund, Ateli 
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 16
+
+17
+00:00:16,000 --> 00:00:17,000
+<i><b>Departure Time</b> : </i>21.45 hrs 
+<i><b>Route</b>       : </i>Delhi to Jhunjhunu 
+<i><b>Via</b>            : </i>Kund, Ateli 
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 17
+
+18
+00:00:17,000 --> 00:00:18,000
+<i><b>Departure Time</b> : </i>22.30 hrs 
+<i><b>Route</b>       : </i>Haridwar to Ladnu 
+<i><b>Via</b>            : </i>Kund, Ateli 
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 18
+
+19
+00:00:18,000 --> 00:00:19,000
+<i><b>Departure Time</b> : </i>23.00 hrs 
+<i><b>Route</b>       : </i>Delhi to Churu
+<i><b>Via</b>            : </i>Kund, Ateli 
+<i><b>Bus Type</b> : </i>RSRTC Express 
+No : 19
+
+20
+00:00:19,000 --> 00:00:20,000
+<i><b>Departure Time</b> : </i> 
+<i><b>Route</b>       : </i> 
+<i><b>Via</b>            : </i> 
+<i><b>Bus Type</b> : </i> 
+No : 20
+
+21
+00:00:20,000 --> 00:00:21,000
+<i><b>Departure Time</b> : </i> 
+<i><b>Route</b>       : </i> 
+<i><b>Via</b>            : </i> 
+<i><b>Bus Type</b> : </i> 
+No : 21
+
+22
+00:00:21,000 --> 00:00:22,000
+<i><b>Departure Time</b> : </i> 
+<i><b>Route</b>       : </i> 
+<i><b>Via</b>            : </i> 
+<i><b>Bus Type</b> : </i> 
+No : 22
+
+23
+00:00:22,000 --> 00:00:23,000
+<i><b>Departure Time</b> : </i> 
+<i><b>Route</b>       : </i> 
+<i><b>Via</b>            : </i> 
+<i><b>Bus Type</b> : </i> 
+No : 23
+
+24
+00:00:23,000 --> 00:00:24,000
+<i><b>Departure Time</b> : </i> 
+<i><b>Route</b>       : </i> 
+<i><b>Via</b>            : </i> 
+<i><b>Bus Type</b> : </i> 
+No : 24
+
